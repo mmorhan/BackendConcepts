@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QPvBoOHddysBJwCL/2GUx3i4I44DtkwQMua05Yhu95vOz/kzO/QY3BHJsQsQy7now4bjO01krFDgaOF3kOAPNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mazlu\\.net\\BackendConcepts\\services\\services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mazlu\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\mazlu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
